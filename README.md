@@ -1,6 +1,6 @@
 # NodeConfEU 2022 - Kilkenny, Ireland
 
-## Responsible use of Node.js & OpenSource software utilizing Best Practices at an Enterprise Level
+## [Responsible use of Node.js & OpenSource software utilizing Best Practices at an Enterprise Level](https://youtu.be/QlTrQ0VPVtc)
 
 ### Steve Husak
 
